@@ -13,4 +13,5 @@
 * [Reto 5 Mando a distancia](reto-5-mando-a-distancia.md)
 * [Muro micro:BIT](muro-microbit.md)
 * [Grupo robótica](grupo-robotica.md)
+* [Pensamiento computacional](pensamiento-computacional.md)
 
