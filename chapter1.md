@@ -1,3 +1,6 @@
-# First Chapter
+#Micro:BIT
+Antes de empezar con este tutorial, tienes que haber haber comprendido la placa micro:BIT
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+https://catedu.gitbooks.io/micro-bit/content/
+
+![](/assets/2018-12-10 11_11_43-Introduction · Micro_bit.jpg)
