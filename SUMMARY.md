@@ -12,4 +12,5 @@
 * [Reto 4 Seguir línea](reto-4-seguir-linea.md)
 * [Reto 5 Mando a distancia](reto-5-mando-a-distancia.md)
 * [Muro micro:BIT](muro-microbit.md)
+* [Grupo robótica](grupo-robotica.md)
 
