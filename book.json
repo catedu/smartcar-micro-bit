@@ -2,7 +2,7 @@
     "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer"],
     "language": "es",
     "variables": {
-        "title": "Google Classroom",
+        "title": "MicroBit + SmartCar",
         "authors": [
             "Javier Quintana Peiró"
         ],
