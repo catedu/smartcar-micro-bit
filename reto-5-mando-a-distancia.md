@@ -41,3 +41,9 @@ Y establecemos un bucle por siempre que :
 El proyecto te lo puedes descargar [aquí](https://makecode.microbit.org/_ftuFv8AReFYq) :
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ftuFv8AReFYq" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+>Intenté también hacer un mando a distancia que funcionase con la brújula interna de microbit, es decir:
+* Si pulsaba A entonces se ponía en marcha
+* Si giraba el mando a distancia, el robot giraba en el mismo sentido
+* Si pulsaba B entonces se paraba
+No conseguí que funcionase fino, pero si alguien lo quiere probar, [aquí ](https://makecode.microbit.org/_em59Y08D2J9E)está el programa del mando y [aquí ](https://makecode.microbit.org/_irv9TsEE3fwh)el del coche.
