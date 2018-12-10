@@ -7,4 +7,6 @@
 * [Reto 1 Música](reto-1-musica.md)
 * [2 Sensor distancia](2-sensor-distancia.md)
 * [Reto 2 Me quedo a 5cm](reto-2-me-quedo-a-5cm.md)
+* [Reto 3 Evitar obstáculos](reto-3-evitar-obstaculos.md)
+* [3 Sigue-lineas](3-sigue-lineas.md)
 
