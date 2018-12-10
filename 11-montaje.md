@@ -1,4 +1,4 @@
-#1.1 Montaje
+# 1.1 Montaje
 
 El paquete viene con unas piezas listas para montar que no requieren especial destreza DYC, lo único "_difícil_" es que hay que **soldar **los cables a los motores (4 pequeñas soldaduras).
 
