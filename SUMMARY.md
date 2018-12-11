@@ -15,5 +15,5 @@
 * [Muro micro:BIT](muro-microbit.md)
 * [Grupo robótica](grupo-robotica.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
-
+* [Créditos](creditos.md)
 
