@@ -12,8 +12,8 @@
   * [Reto 4 Seguir línea](reto-4-seguir-linea.md)
 * [4 Si tuviera 2 micro:BIT](4-si-tuviera-2-microbit.md)
   * [Reto 5 Mando a distancia](reto-5-mando-a-distancia.md)
-* [Muro micro:BIT](muro-microbit.md)
-* [Grupo robótica](grupo-robotica.md)
-* [Pensamiento computacional](pensamiento-computacional.md)
-* [Créditos](creditos.md)
+* [5 Muro micro:BIT](muro-microbit.md)
+* [6 Grupo robótica](grupo-robotica.md)
+* [7 Pensamiento computacional](pensamiento-computacional.md)
+* [8 Créditos](creditos.md)
 
