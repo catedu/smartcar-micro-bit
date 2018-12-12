@@ -17,5 +17,5 @@
 * [7 Grupo robótica](grupo-robotica.md)
 * [8 Pensamiento computacional](pensamiento-computacional.md)
 * [9 Créditos](creditos.md)
-
+* [Kit de préstamo CATEDU](kit-de-prestamo-catedu.md)
 
