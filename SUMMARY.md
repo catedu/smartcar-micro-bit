@@ -1,9 +1,10 @@
 # Summary
 
 * [1 Introduccion](README.md)
-  * [1.0 Micro:BIT](chapter1.md)
-  * [1.1 Montaje](11-montaje.md)
-  * [1.2 Conexión con Makecode](12-conexion-con-makecode.md)
+  * [1.1 Micro:BIT](chapter1.md)
+  * [1.2 Kit de préstamo CATEDU](kit-de-prestamo-catedu.md)
+  * [1.3 Montaje](11-montaje.md)
+  * [1.4 Conexión con Makecode](12-conexion-con-makecode.md)
   * [Reto 1 Música](reto-1-musica.md)
 * [2 Sensor distancia](2-sensor-distancia.md)
   * [Reto 2 Me quedo a 5cm](reto-2-me-quedo-a-5cm.md)
@@ -17,5 +18,5 @@
 * [7 Grupo robótica](grupo-robotica.md)
 * [8 Pensamiento computacional](pensamiento-computacional.md)
 * [9 Créditos](creditos.md)
-* [Kit de préstamo CATEDU](kit-de-prestamo-catedu.md)
+
 
