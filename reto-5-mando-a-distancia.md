@@ -42,6 +42,8 @@ El proyecto te lo puedes descargar [aquí](https://makecode.microbit.org/_ftuFv8
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ftuFv8AReFYq" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
+
+
 *Nota:*
 >Intenté también hacer un mando a distancia que funcionase con la brújula interna de microbit, es decir:
 * Si pulsaba A entonces se ponía en marcha
