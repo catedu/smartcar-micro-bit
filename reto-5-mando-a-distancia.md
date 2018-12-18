@@ -50,4 +50,6 @@ El proyecto te lo puedes descargar [aquí](https://makecode.microbit.org/_ftuFv8
 * Si giraba el mando a distancia, el robot giraba en el mismo sentido
 * Si pulsaba B entonces se paraba
 
+<iframe src="https://giphy.com/embed/AiTagxd6jrmiUqq8D2" width="480" height="299" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/microbit-microcar-AiTagxd6jrmiUqq8D2">via GIPHY</a></p>
+
 >**No conseguí que funcionase fino**, por lo que he dedicido quitarlo del curso, pero si alguien lo quiere probar, [aquí ](https://makecode.microbit.org/_em59Y08D2J9E)está el programa del mando y [aquí ](https://makecode.microbit.org/_irv9TsEE3fwh)el del coche.
