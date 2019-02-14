@@ -5,4 +5,4 @@
   
 Como se puede ver MICRO:BIT y smartCAR es una alternativa muy buena frente a mBot y si ya se trabaja con micro:BIT es un buen complemento y ampliación.
 
-![](https://docs.google.com/drawings/d/e/2PACX-1vSnGHqK6AD7RaD8mVMBXUwXmzE4KXQQqdhBX6rGc7arR9_DOfE02i0wSDKuY20BO7VhPk39MQVcbqX_/pub?w=967&h=1276)
+{% include "git+https://github.com/catedu/robotica.git/README.md" %}
