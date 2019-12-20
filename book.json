@@ -1,1 +1,41 @@
-{"plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "MicroBit + SmartCar", "authors": ["Javier Quintana Peiró"], "collaborators": [{"name": "_________", "edited": "_____________"}]}, "pluginsConfig": {"localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/smartcar-micro-bit/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "smartcar-micro-bit"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "MicroBit + SmartCar",
+    "authors": [
+      "Javier Quintana Peiró"
+    ],
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/smartcar-micro-bit/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "smartcar-micro-bit"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
