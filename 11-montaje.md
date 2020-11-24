@@ -1,5 +1,9 @@
 # 1.1 Montaje
 
+'>**info**
+> ATENCIÓN: Este kit actualmente está superado en calidad/precio por CUTEBOT para microbit https://robotopia.es/kits-educativos/196-cutebot.html
+
+
 El paquete viene con unas piezas listas para montar que no requieren especial destreza DYC, lo único "_difícil_" es que hay que **soldar **los cables a los motores (4 pequeñas soldaduras).
 
 El sensor sigue-lineas y el sensor ultrasonidos se puede poner en cualquier pin, pero en este curso lo fijaremos en:
@@ -18,4 +22,4 @@ Con un poco de paciencia se hace muy bien
 
 Nosotros no somos comerciales, luego ésto mejor que no :
 
-![](https://catedu.gitbooks.io/alphabot/content/assets/2018-06-30%2007_45_40-Documento1%20-%20Microsoft%20Word.png)
+![](https://catedu.github.io/alphabot/assets/2018-06-30%2007_45_40-Documento1%20-%20Microsoft%20Word.png)
