@@ -20,7 +20,7 @@ por lo tanto queremos:
 * Que cuando sea OFF sea un 1 lógico (línea)
 * Que cuando sea ON sea un 0 lógico (no hay línea)
 
-Esto se llama **CONFIGURACIÓN PULL-UP** (pincha [aquí](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/resistencias_pullup_y_pulldown.html) para saber más) luego lo primero que tenemos que hacer es configurar estos sensores como PULL-UP con estas instrucciones (han traducido **UP** como *subir*):
+Esto se llama **CONFIGURACIÓN PULL-UP** (pincha [aquí](https://catedu.github.io/programa-arduino-mediante-codigo/resistencias_pullup_y_pulldown.html) para saber más) luego lo primero que tenemos que hacer es configurar estos sensores como PULL-UP con estas instrucciones (han traducido **UP** como *subir*):
 
 ![](/assets/97c1e8aa-a59f-415a-b0a4-1690cd2f09cf.jpg)
 

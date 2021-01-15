@@ -1,5 +1,5 @@
 #Reto 1 Música
-SmartCar tiene incorporado un altavoz ya en el puerto P0 por lo tanto no es necesario hacer cocodrilos o papeles de aluminio **[como hemos visto anteriormente](https://catedu.gitbooks.io/micro-bit/content/pines_de_entrada_y_salida/reto-17-musica.html)**.
+SmartCar tiene incorporado un altavoz ya en el puerto P0 por lo tanto no es necesario hacer cocodrilos o papeles de aluminio **[como hemos visto anteriormente](https://catedu.github.io/microbit-curso/pines_de_entrada_y_salida/reto-17-musica.html)**.
 
 Vamos a hacer un programa que al pulsar el botón A suene música etc...
 

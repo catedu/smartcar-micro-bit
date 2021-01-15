@@ -1,4 +1,4 @@
-#Introduccion SmartCar
+# Introduccion SmartCar
 
 ![](/assets/2018-12-10 10_41_37-smartcar.md — GitBook Editor.jpg)
 
@@ -8,7 +8,7 @@ Micro:BIT se queda un poco triste si no se "mueve", pero hay que tener en cuenta
 * Necesitas una electrónica añadida de potencia y control de los motores.
 * Necesitas unos sensores de lo contrario el movimiento se queda insípido sin reacción al mundo exterior.
 
-La placa de micro:BIT no incorpora movimiento, por eso cuesta tan poco, pero si quieres este extra tienes que pagar ([unos 40€ casi el doble de lo que cuesta micro:BIT, ver este enlace](http://robotopia.es/kits-educativos/95-smart-car-para-microbit.html)). Aún así el conjunto sale más barato que [mBot](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/).
+La placa de micro:BIT no incorpora movimiento, por eso cuesta tan poco, pero si quieres este extra tienes que pagar ([unos 40€ casi el doble de lo que cuesta micro:BIT, ver este enlace](http://robotopia.es/kits-educativos/95-smart-car-para-microbit.html)). Aún así el conjunto sale más barato que [mBot](https://catedu.github.io/robotica-educativa-con-mbot/).
 
 >Otra opción de dotar ruedas a nuestro microbit es usar un mbot, sólo comprando una placa, [aquí tienes cómo hacerlo](https://juegosrobotica.es/podcast-034/)
 
