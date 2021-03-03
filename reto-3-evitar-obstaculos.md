@@ -13,13 +13,13 @@ Luego hacemos el bucle "para siempre":
 * El sensor no funciona muy fino, hay veces que da *0 falsos* por lo tanto el bucle **si** ponemos una condición **si es mayor de 5 y es menor de 10** para quitarnos estos falsos positivos de obstáculos.
 * si encuentra obstáculo, que pare un poco, que *recule* y que gire
  * cada instrucción anterior con una pequeña pausa, cuanto más grande sea la pausa más *reculará*, girará etc..
-* si no encuentra obstáculo que siga recto 
+* si no encuentra obstáculo que siga recto
 
-![](/assets/76c6ec75-d855-4295-b9f9-d3bc3c5eade0.jpg)
+![](/assets/romba.jpg)
 
 Aquí lo tienes en editor
- 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_5RPYL4TfKXae" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_XwHXA21Kd4up" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 ##Reto
 Si te fijas sólo gira a la derecha. Modifica el anterior programa para que gira a la derecha o a la izquierda de forma aleatoria.
